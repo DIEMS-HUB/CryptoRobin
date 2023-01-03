@@ -34,6 +34,8 @@ Used API from [Coinmarketcap](https://coinmarketcap.com)
 
 [Download APK](https://github.com/adityasimant/CryptoRobin/releases/download/V1/CryptoRobinV1.apk)(For android)
 
+### Contribution 
 
+ Feel free to contribute. Please read [Contributing Guide](https://github.com/DIEMS-HUB/Roadmaps/blob/main/contribution.md) and [Code of Conduct](https://github.com/DIEMS-HUB/Roadmaps/blob/main/Code_of_conduct.md) before proceeding.
 
 
